@@ -1,0 +1,9 @@
+Frames:
+
+Andar- 0 A 26
+
+Chutar- 34 a 61
+
+morrer- 69 a 86
+
+Atirar- 104 a 108
